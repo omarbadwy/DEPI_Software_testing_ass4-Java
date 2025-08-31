@@ -1,3 +1,10 @@
+// By Omar Badwy
+/*Exercise 1 Write a Java program to perform the following tasks on an integer array of test scores:
+int[] scores = {85, 92, 78, 96, 88}; Find the maximum score.
+Calculate and print the sum and average of all scores.
+Search for a specific value (e.g., 92) and display its index.
+Display a message if the value is not found.*/
+
 class Student {
     private String name;
     private int age;
