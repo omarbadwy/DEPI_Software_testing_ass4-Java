@@ -6,7 +6,7 @@ Calculate and print the sum and average of all scores.
 Search for a specific value (e.g., 92) and display its index.
 Display a message if the value is not found.
 
-Exercise
+Exercise 2
 You are required to create a Student class with the following structure and interact with it in the main method:
 Define fields: name, age, and gpa.
 Create a constructor to initialize these fields.
